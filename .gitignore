@@ -9,3 +9,6 @@ fp-lib-table-bak
 .DS_Store
 Thumbs.db
 __pycache__/
+
+# Ignore the node_modules folder anywhere
+table-zamboni-backups/

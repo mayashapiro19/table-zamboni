@@ -1207,7 +1207,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3621889b-53c8-4a5d-9303-691086ff7676")
-		(property "Reference" "U501"
+		(property "Reference" "U401"
 			(at 131.826 93.218 0)
 			(effects
 				(font
@@ -1216,7 +1216,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM6DS3"
+		(property "Value" "LSM6DSO32X"
 			(at 131.826 95.758 0)
 			(effects
 				(font
@@ -1298,7 +1298,7 @@
 		(instances
 			(project "table-zamboni"
 				(path "/6b8b7632-a6ae-4a95-9a82-5604ab03d2a7/8cce2de5-db49-4c04-aeca-96191d207de7"
-					(reference "U501")
+					(reference "U401")
 					(unit 1)
 				)
 			)
@@ -1315,7 +1315,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "40a78a94-bef8-4e0d-a06f-cba54f26a65c")
-		(property "Reference" "C505"
+		(property "Reference" "C402"
 			(at 138.43 49.53 90)
 			(effects
 				(font
@@ -1369,7 +1369,7 @@
 		(instances
 			(project "table-zamboni"
 				(path "/6b8b7632-a6ae-4a95-9a82-5604ab03d2a7/8cce2de5-db49-4c04-aeca-96191d207de7"
-					(reference "C505")
+					(reference "C402")
 					(unit 1)
 				)
 			)
@@ -1385,7 +1385,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4b552eb4-e5c7-4a61-a82b-af314994f5df")
-		(property "Reference" "#PWR0502"
+		(property "Reference" "#PWR0401"
 			(at 92.71 81.28 0)
 			(effects
 				(font
@@ -1436,7 +1436,7 @@
 		(instances
 			(project "table-zamboni"
 				(path "/6b8b7632-a6ae-4a95-9a82-5604ab03d2a7/8cce2de5-db49-4c04-aeca-96191d207de7"
-					(reference "#PWR0502")
+					(reference "#PWR0401")
 					(unit 1)
 				)
 			)
@@ -1452,7 +1452,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "607df3e3-d5fe-4634-bd04-15f7e153636d")
-		(property "Reference" "#PWR0501"
+		(property "Reference" "#PWR0405"
 			(at 128.27 101.6 0)
 			(effects
 				(font
@@ -1503,7 +1503,7 @@
 		(instances
 			(project "table-zamboni"
 				(path "/6b8b7632-a6ae-4a95-9a82-5604ab03d2a7/8cce2de5-db49-4c04-aeca-96191d207de7"
-					(reference "#PWR0501")
+					(reference "#PWR0405")
 					(unit 1)
 				)
 			)
@@ -1519,7 +1519,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "809f92dc-f691-4abc-bad3-cfbbb64e5f29")
-		(property "Reference" "#PWR0515"
+		(property "Reference" "#PWR0403"
 			(at 113.03 66.04 0)
 			(effects
 				(font
@@ -1570,7 +1570,7 @@
 		(instances
 			(project "table-zamboni"
 				(path "/6b8b7632-a6ae-4a95-9a82-5604ab03d2a7/8cce2de5-db49-4c04-aeca-96191d207de7"
-					(reference "#PWR0515")
+					(reference "#PWR0403")
 					(unit 1)
 				)
 			)
@@ -1586,7 +1586,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8ca78198-b0a9-4927-8bd6-83c8f2199440")
-		(property "Reference" "#PWR0503"
+		(property "Reference" "#PWR0404"
 			(at 128.27 52.07 0)
 			(effects
 				(font
@@ -1637,7 +1637,7 @@
 		(instances
 			(project "table-zamboni"
 				(path "/6b8b7632-a6ae-4a95-9a82-5604ab03d2a7/8cce2de5-db49-4c04-aeca-96191d207de7"
-					(reference "#PWR0503")
+					(reference "#PWR0404")
 					(unit 1)
 				)
 			)
@@ -1653,7 +1653,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b24193e4-486b-4bbf-8562-3fb04025deed")
-		(property "Reference" "#PWR0504"
+		(property "Reference" "#PWR0402"
 			(at 106.68 95.25 0)
 			(effects
 				(font
@@ -1704,7 +1704,7 @@
 		(instances
 			(project "table-zamboni"
 				(path "/6b8b7632-a6ae-4a95-9a82-5604ab03d2a7/8cce2de5-db49-4c04-aeca-96191d207de7"
-					(reference "#PWR0504")
+					(reference "#PWR0402")
 					(unit 1)
 				)
 			)
@@ -1720,7 +1720,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c37a5b0c-2f39-405d-ad65-eaacac60f89c")
-		(property "Reference" "#PWR0514"
+		(property "Reference" "#PWR0406"
 			(at 146.05 66.04 0)
 			(effects
 				(font
@@ -1771,7 +1771,7 @@
 		(instances
 			(project "table-zamboni"
 				(path "/6b8b7632-a6ae-4a95-9a82-5604ab03d2a7/8cce2de5-db49-4c04-aeca-96191d207de7"
-					(reference "#PWR0514")
+					(reference "#PWR0406")
 					(unit 1)
 				)
 			)
@@ -1788,7 +1788,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e9176117-6a53-4f26-a4ce-2a927ae303dd")
-		(property "Reference" "R505"
+		(property "Reference" "R401"
 			(at 104.14 91.4399 0)
 			(effects
 				(font
@@ -1842,7 +1842,7 @@
 		(instances
 			(project "table-zamboni"
 				(path "/6b8b7632-a6ae-4a95-9a82-5604ab03d2a7/8cce2de5-db49-4c04-aeca-96191d207de7"
-					(reference "R505")
+					(reference "R401")
 					(unit 1)
 				)
 			)
@@ -1859,7 +1859,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f814a7a4-a490-4c4d-93e5-a9e230557074")
-		(property "Reference" "C506"
+		(property "Reference" "C401"
 			(at 120.65 49.53 90)
 			(effects
 				(font
@@ -1913,7 +1913,7 @@
 		(instances
 			(project "table-zamboni"
 				(path "/6b8b7632-a6ae-4a95-9a82-5604ab03d2a7/8cce2de5-db49-4c04-aeca-96191d207de7"
-					(reference "C506")
+					(reference "C401")
 					(unit 1)
 				)
 			)

@@ -1,4 +1,5 @@
 (sym_lib_table
   (version 7)
   (lib (name "v53l4cd")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/v53l4cd.kicad_sym")(options "")(descr ""))
+  (lib (name "lm3940")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/lm3940.kicad_sym")(options "")(descr ""))
 )

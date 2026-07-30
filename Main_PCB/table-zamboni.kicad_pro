@@ -615,10 +615,6 @@
       "Root"
     ],
     [
-      "4261dc8f-1083-4db7-afca-85b62cbc5b0d",
-      "ESP32"
-    ],
-    [
       "7b07baf8-6770-44e5-ada5-d8551fbcfa15",
       "Power Management"
     ],
@@ -629,6 +625,10 @@
     [
       "8cce2de5-db49-4c04-aeca-96191d207de7",
       "IMU"
+    ],
+    [
+      "e5c972da-9e3b-4905-a822-7ee0d7b899b3",
+      "ToF Sensors"
     ]
   ],
   "text_variables": {}

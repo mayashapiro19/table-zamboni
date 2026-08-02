@@ -3,4 +3,6 @@
   (lib (name "v53l4cd")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/v53l4cd.kicad_sym")(options "")(descr ""))
   (lib (name "lm3940")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/lm3940.kicad_sym")(options "")(descr ""))
   (lib (name "ldl1117")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/ldl1117.kicad_sym")(options "")(descr ""))
+  (lib (name "smbj9.0ca")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/smbj9.0ca.kicad_sym")(options "")(descr ""))
+  (lib (name "unidirectional_tvs")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/unidirectional_tvs.kicad_sym")(options "")(descr ""))
 )

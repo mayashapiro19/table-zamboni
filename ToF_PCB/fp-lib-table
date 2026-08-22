@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "vl53l4cd")(type "KiCad")(uri "${KIPRJMOD}/libraries/vl53l4cd/vl53l4cd.pretty")(options "")(descr ""))
+)

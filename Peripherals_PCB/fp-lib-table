@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "74AHCT1G125D")(type "KiCad")(uri "${KIPRJMOD}/libraries/74AHCT1G125DBVTG4/footprints.pretty")(options "")(descr ""))
+  (lib (name "D6R90F2LFS")(type "KiCad")(uri "${KIPRJMOD}/libraries/D6R90F2LFS/footprints.pretty")(options "")(descr ""))
+  (lib (name "TPS22918DBVT")(type "KiCad")(uri "${KIPRJMOD}/libraries/TPS22918DBVT/footprints.pretty")(options "")(descr ""))
+  (lib (name "WS2812B")(type "KiCad")(uri "${KIPRJMOD}/libraries/WS2812B/footprints.pretty")(options "")(descr ""))
+  (lib (name "TPD1E6B06")(type "KiCad")(uri "${KIPRJMOD}/TPD1E6B06.pretty")(options "")(descr ""))
+  (lib (name "TPD1E05U06")(type "KiCad")(uri "${KIPRJMOD}/TPD1E05U06.pretty")(options "")(descr ""))
+)

@@ -226,7 +226,16 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "lib_symbol_mismatch|787400|635000|b873d825-257c-410a-be93-9cc34b94010d|00000000-0000-0000-0000-000000000000|||",
+        "Changed VINT from Power input to Passive"
+      ],
+      [
+        "pin_to_pin|482600|571500|df5593a2-c92d-4853-a1e6-fad0c961f7f2|dec89117-3776-4d17-8e5f-3f7cfea98eef|/6b8b7632-a6ae-4a95-9a82-5604ab03d2a7/8cce2de5-db49-4c04-aeca-96191d207de7|/6b8b7632-a6ae-4a95-9a82-5604ab03d2a7/8cce2de5-db49-4c04-aeca-96191d207de7|/6b8b7632-a6ae-4a95-9a82-5604ab03d2a7",
+        "Connected to ground as per datasheet application circuit"
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -619,15 +628,19 @@
       "Power Management"
     ],
     [
-      "c4dd2384-b683-4b39-83dc-53f1f6d0a923",
-      "Motors"
+      "07fa4db6-791d-4ca4-a140-16fb615b4167",
+      "USB to UART"
     ],
     [
       "8cce2de5-db49-4c04-aeca-96191d207de7",
       "IMU"
     ],
     [
-      "e5c972da-9e3b-4905-a822-7ee0d7b899b3",
+      "c4dd2384-b683-4b39-83dc-53f1f6d0a923",
+      "Motors"
+    ],
+    [
+      "e22b92e7-2747-47b0-8815-bcb88b18d105",
       "ToF Sensors"
     ]
   ],

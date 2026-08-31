@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "9.0")
 	(uuid "64813b77-db2f-4340-b7d8-e30a5c4553f0")
-	(paper "A4")
+	(paper "A5")
 	(title_block
 		(rev "DRAFT")
 	)
@@ -840,7 +840,7 @@
 	)
 	(text "NOTE: Using Mode 1 application circuit."
 		(exclude_from_sim no)
-		(at 22.86 27.178 0)
+		(at 17.78 20.32 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -850,42 +850,42 @@
 		(uuid "753b9498-dc2b-42c7-8038-7af5a4495896")
 	)
 	(junction
-		(at 106.68 86.36)
+		(at 41.91 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "061fed07-5986-49be-9c5a-b69c54316ea2")
 	)
 	(junction
-		(at 130.81 57.15)
+		(at 66.04 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "569b3fec-d070-4811-8f2b-1c61cdec84f7")
 	)
 	(junction
-		(at 100.33 73.66)
+		(at 35.56 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a22b536b-cde4-47c9-93f8-ad321737e262")
 	)
 	(junction
-		(at 128.27 57.15)
+		(at 63.5 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c3175e8c-34cc-46f8-9ad0-e53b12267303")
 	)
 	(junction
-		(at 128.27 52.07)
+		(at 63.5 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d0b90fbe-4c6c-4ea4-81a1-186c47660edd")
 	)
 	(no_connect
-		(at 143.51 73.66)
+		(at 78.74 57.15)
 		(uuid "ddb28f47-ca10-4c3f-a266-2038eef13bca")
 	)
 	(wire
 		(pts
-			(xy 146.05 57.15) (xy 146.05 59.69)
+			(xy 81.28 40.64) (xy 81.28 43.18)
 		)
 		(stroke
 			(width 0)
@@ -895,7 +895,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 52.07) (xy 130.81 52.07)
+			(xy 63.5 35.56) (xy 66.04 35.56)
 		)
 		(stroke
 			(width 0)
@@ -905,7 +905,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 86.36) (xy 113.03 86.36)
+			(xy 41.91 69.85) (xy 48.26 69.85)
 		)
 		(stroke
 			(width 0)
@@ -915,7 +915,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 83.82) (xy 113.03 83.82)
+			(xy 41.91 67.31) (xy 48.26 67.31)
 		)
 		(stroke
 			(width 0)
@@ -925,7 +925,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 86.36) (xy 106.68 88.9)
+			(xy 41.91 69.85) (xy 41.91 72.39)
 		)
 		(stroke
 			(width 0)
@@ -935,7 +935,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 73.66) (xy 92.71 74.93)
+			(xy 27.94 57.15) (xy 27.94 58.42)
 		)
 		(stroke
 			(width 0)
@@ -945,7 +945,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 57.15) (xy 134.62 57.15)
+			(xy 66.04 40.64) (xy 69.85 40.64)
 		)
 		(stroke
 			(width 0)
@@ -955,7 +955,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 86.36) (xy 106.68 86.36)
+			(xy 31.75 69.85) (xy 41.91 69.85)
 		)
 		(stroke
 			(width 0)
@@ -965,7 +965,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 76.2) (xy 100.33 76.2)
+			(xy 48.26 59.69) (xy 35.56 59.69)
 		)
 		(stroke
 			(width 0)
@@ -975,7 +975,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 52.07) (xy 130.81 57.15)
+			(xy 66.04 35.56) (xy 66.04 40.64)
 		)
 		(stroke
 			(width 0)
@@ -985,7 +985,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 63.5) (xy 128.27 57.15)
+			(xy 63.5 46.99) (xy 63.5 40.64)
 		)
 		(stroke
 			(width 0)
@@ -995,7 +995,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 57.15) (xy 113.03 59.69)
+			(xy 48.26 40.64) (xy 48.26 43.18)
 		)
 		(stroke
 			(width 0)
@@ -1005,7 +1005,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 63.5) (xy 130.81 57.15)
+			(xy 66.04 46.99) (xy 66.04 40.64)
 		)
 		(stroke
 			(width 0)
@@ -1015,7 +1015,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 73.66) (xy 100.33 73.66)
+			(xy 48.26 57.15) (xy 35.56 57.15)
 		)
 		(stroke
 			(width 0)
@@ -1025,7 +1025,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 71.12) (xy 113.03 71.12)
+			(xy 41.91 54.61) (xy 48.26 54.61)
 		)
 		(stroke
 			(width 0)
@@ -1035,7 +1035,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 57.15) (xy 128.27 57.15)
+			(xy 59.69 40.64) (xy 63.5 40.64)
 		)
 		(stroke
 			(width 0)
@@ -1045,7 +1045,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 81.28) (xy 113.03 81.28)
+			(xy 41.91 64.77) (xy 48.26 64.77)
 		)
 		(stroke
 			(width 0)
@@ -1055,7 +1055,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 48.26) (xy 128.27 52.07)
+			(xy 63.5 31.75) (xy 63.5 35.56)
 		)
 		(stroke
 			(width 0)
@@ -1065,7 +1065,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 73.66) (xy 100.33 76.2)
+			(xy 35.56 57.15) (xy 35.56 59.69)
 		)
 		(stroke
 			(width 0)
@@ -1075,7 +1075,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 71.12) (xy 148.59 71.12)
+			(xy 78.74 54.61) (xy 83.82 54.61)
 		)
 		(stroke
 			(width 0)
@@ -1085,7 +1085,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 52.07) (xy 128.27 57.15)
+			(xy 63.5 35.56) (xy 63.5 40.64)
 		)
 		(stroke
 			(width 0)
@@ -1095,7 +1095,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 73.66) (xy 100.33 73.66)
+			(xy 27.94 57.15) (xy 35.56 57.15)
 		)
 		(stroke
 			(width 0)
@@ -1105,7 +1105,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 93.98) (xy 128.27 95.25)
+			(xy 63.5 77.47) (xy 63.5 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1115,7 +1115,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 57.15) (xy 116.84 57.15)
+			(xy 48.26 40.64) (xy 52.07 40.64)
 		)
 		(stroke
 			(width 0)
@@ -1125,7 +1125,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 96.52) (xy 106.68 99.06)
+			(xy 41.91 80.01) (xy 41.91 82.55)
 		)
 		(stroke
 			(width 0)
@@ -1135,7 +1135,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 57.15) (xy 146.05 57.15)
+			(xy 77.47 40.64) (xy 81.28 40.64)
 		)
 		(stroke
 			(width 0)
@@ -1143,72 +1143,72 @@
 		)
 		(uuid "fa90745e-1895-4431-906f-274e82807ede")
 	)
-	(hierarchical_label "IMU_INT1"
+	(hierarchical_label "INT1"
 		(shape output)
-		(at 148.59 71.12 0)
+		(at 83.82 54.61 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "058ead20-89ad-45c6-8c35-6489561a1f42")
+		(uuid "34c847a6-0573-4414-a1ef-738868d23458")
 	)
-	(hierarchical_label "SPI_MISO"
+	(hierarchical_label "SCK"
+		(shape input)
+		(at 41.91 67.31 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4c3acd6c-1ad7-4958-8494-9a86bee102ca")
+	)
+	(hierarchical_label "CS"
+		(shape input)
+		(at 31.75 69.85 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "87b7d94f-18a3-438a-baac-1a909acbeb6c")
+	)
+	(hierarchical_label "MISO"
 		(shape output)
-		(at 107.95 71.12 180)
+		(at 41.91 54.61 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "206b824d-8964-485f-a4ac-cf85bb2e8ebd")
+		(uuid "cdce4b5d-5db8-4c5e-b707-9488f1b2bc70")
 	)
-	(hierarchical_label "IMU_CS"
+	(hierarchical_label "MOSI"
 		(shape input)
-		(at 96.52 86.36 180)
+		(at 41.91 64.77 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "30e2ecc1-1885-4bae-8806-123b0e162922")
-	)
-	(hierarchical_label "SPI_SCK"
-		(shape input)
-		(at 107.95 83.82 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "772b9ae6-94f5-4ecc-b94b-777fb1280d1b")
-	)
-	(hierarchical_label "SPI_MOSI"
-		(shape input)
-		(at 107.95 81.28 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8abaf34a-1a80-48c5-929d-43b24dfa30b0")
+		(uuid "ddf00e41-b36e-4faf-873a-d995d1b082af")
 	)
 	(symbol
 		(lib_id "Sensor_Motion:LSM6DS3")
-		(at 128.27 78.74 0)
+		(at 63.5 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "3621889b-53c8-4a5d-9303-691086ff7676")
-		(property "Reference" "U401"
-			(at 131.826 93.218 0)
+		(property "Reference" "U5"
+			(at 67.056 76.708 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1217,7 +1217,7 @@
 			)
 		)
 		(property "Value" "LSM6DSO32X"
-			(at 131.826 95.758 0)
+			(at 67.056 79.248 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1226,7 +1226,7 @@
 			)
 		)
 		(property "Footprint" "Package_LGA:LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y"
-			(at 118.11 96.52 0)
+			(at 53.34 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1236,7 +1236,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"
-			(at 130.81 95.25 0)
+			(at 66.04 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1245,7 +1245,7 @@
 			)
 		)
 		(property "Description" "I2C/SPI, iNEMO inertial module: always-on 3D accelerometer and 3D gyroscope"
-			(at 128.27 78.74 0)
+			(at 63.5 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1298,7 +1298,7 @@
 		(instances
 			(project "table-zamboni"
 				(path "/6b8b7632-a6ae-4a95-9a82-5604ab03d2a7/8cce2de5-db49-4c04-aeca-96191d207de7"
-					(reference "U401")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -1306,7 +1306,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 138.43 57.15 90)
+		(at 73.66 40.64 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1315,8 +1315,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "40a78a94-bef8-4e0d-a06f-cba54f26a65c")
-		(property "Reference" "C402"
-			(at 138.43 49.53 90)
+		(property "Reference" "C12"
+			(at 73.66 33.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1325,7 +1325,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 138.43 52.07 90)
+			(at 73.66 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1334,7 +1334,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 142.24 58.1152 0)
+			(at 77.47 41.6052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1343,7 +1343,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 138.43 57.15 0)
+			(at 73.66 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1352,7 +1352,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 138.43 57.15 0)
+			(at 73.66 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1369,7 +1369,7 @@
 		(instances
 			(project "table-zamboni"
 				(path "/6b8b7632-a6ae-4a95-9a82-5604ab03d2a7/8cce2de5-db49-4c04-aeca-96191d207de7"
-					(reference "C402")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -1377,7 +1377,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 92.71 74.93 0)
+		(at 27.94 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1385,8 +1385,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4b552eb4-e5c7-4a61-a82b-af314994f5df")
-		(property "Reference" "#PWR0401"
-			(at 92.71 81.28 0)
+		(property "Reference" "#PWR051"
+			(at 27.94 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1395,7 +1395,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 92.71 80.01 0)
+			(at 27.94 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1404,7 +1404,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 92.71 74.93 0)
+			(at 27.94 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1413,7 +1413,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 92.71 74.93 0)
+			(at 27.94 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1422,7 +1422,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 92.71 74.93 0)
+			(at 27.94 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1436,7 +1436,7 @@
 		(instances
 			(project "table-zamboni"
 				(path "/6b8b7632-a6ae-4a95-9a82-5604ab03d2a7/8cce2de5-db49-4c04-aeca-96191d207de7"
-					(reference "#PWR0401")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -1444,7 +1444,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 128.27 95.25 0)
+		(at 63.5 78.74 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1452,8 +1452,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "607df3e3-d5fe-4634-bd04-15f7e153636d")
-		(property "Reference" "#PWR0405"
-			(at 128.27 101.6 0)
+		(property "Reference" "#PWR055"
+			(at 63.5 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1462,7 +1462,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 128.27 100.33 0)
+			(at 63.5 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1471,7 +1471,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 128.27 95.25 0)
+			(at 63.5 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1480,7 +1480,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 128.27 95.25 0)
+			(at 63.5 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1489,7 +1489,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 128.27 95.25 0)
+			(at 63.5 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1503,7 +1503,7 @@
 		(instances
 			(project "table-zamboni"
 				(path "/6b8b7632-a6ae-4a95-9a82-5604ab03d2a7/8cce2de5-db49-4c04-aeca-96191d207de7"
-					(reference "#PWR0405")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -1511,7 +1511,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 113.03 59.69 0)
+		(at 48.26 43.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1519,8 +1519,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "809f92dc-f691-4abc-bad3-cfbbb64e5f29")
-		(property "Reference" "#PWR0403"
-			(at 113.03 66.04 0)
+		(property "Reference" "#PWR053"
+			(at 48.26 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1529,7 +1529,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 113.03 64.77 0)
+			(at 48.26 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1538,7 +1538,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 113.03 59.69 0)
+			(at 48.26 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1547,7 +1547,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 113.03 59.69 0)
+			(at 48.26 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1556,7 +1556,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 113.03 59.69 0)
+			(at 48.26 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1570,7 +1570,7 @@
 		(instances
 			(project "table-zamboni"
 				(path "/6b8b7632-a6ae-4a95-9a82-5604ab03d2a7/8cce2de5-db49-4c04-aeca-96191d207de7"
-					(reference "#PWR0403")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -1578,7 +1578,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 128.27 48.26 0)
+		(at 63.5 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1586,8 +1586,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8ca78198-b0a9-4927-8bd6-83c8f2199440")
-		(property "Reference" "#PWR0404"
-			(at 128.27 52.07 0)
+		(property "Reference" "#PWR054"
+			(at 63.5 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1596,7 +1596,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 128.27 43.18 0)
+			(at 63.5 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1605,7 +1605,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 128.27 48.26 0)
+			(at 63.5 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1614,7 +1614,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 128.27 48.26 0)
+			(at 63.5 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1623,7 +1623,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 128.27 48.26 0)
+			(at 63.5 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1637,7 +1637,7 @@
 		(instances
 			(project "table-zamboni"
 				(path "/6b8b7632-a6ae-4a95-9a82-5604ab03d2a7/8cce2de5-db49-4c04-aeca-96191d207de7"
-					(reference "#PWR0404")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -1645,7 +1645,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 106.68 99.06 180)
+		(at 41.91 82.55 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1653,8 +1653,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b24193e4-486b-4bbf-8562-3fb04025deed")
-		(property "Reference" "#PWR0402"
-			(at 106.68 95.25 0)
+		(property "Reference" "#PWR052"
+			(at 41.91 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1663,7 +1663,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 106.68 104.14 0)
+			(at 41.91 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1672,7 +1672,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 106.68 99.06 0)
+			(at 41.91 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1681,7 +1681,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 106.68 99.06 0)
+			(at 41.91 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1690,7 +1690,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 106.68 99.06 0)
+			(at 41.91 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1704,7 +1704,7 @@
 		(instances
 			(project "table-zamboni"
 				(path "/6b8b7632-a6ae-4a95-9a82-5604ab03d2a7/8cce2de5-db49-4c04-aeca-96191d207de7"
-					(reference "#PWR0402")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -1712,7 +1712,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 146.05 59.69 0)
+		(at 81.28 43.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1720,8 +1720,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c37a5b0c-2f39-405d-ad65-eaacac60f89c")
-		(property "Reference" "#PWR0406"
-			(at 146.05 66.04 0)
+		(property "Reference" "#PWR056"
+			(at 81.28 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1730,7 +1730,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 146.05 64.77 0)
+			(at 81.28 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1739,7 +1739,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 146.05 59.69 0)
+			(at 81.28 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1748,7 +1748,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 59.69 0)
+			(at 81.28 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1757,7 +1757,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 146.05 59.69 0)
+			(at 81.28 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1771,7 +1771,7 @@
 		(instances
 			(project "table-zamboni"
 				(path "/6b8b7632-a6ae-4a95-9a82-5604ab03d2a7/8cce2de5-db49-4c04-aeca-96191d207de7"
-					(reference "#PWR0406")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -1779,7 +1779,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 106.68 92.71 0)
+		(at 41.91 76.2 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1788,8 +1788,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e9176117-6a53-4f26-a4ce-2a927ae303dd")
-		(property "Reference" "R401"
-			(at 104.14 91.4399 0)
+		(property "Reference" "R23"
+			(at 39.37 74.9299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1798,7 +1798,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 104.14 93.9799 0)
+			(at 39.37 77.4699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1807,7 +1807,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 104.902 92.71 90)
+			(at 40.132 76.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1816,7 +1816,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 106.68 92.71 0)
+			(at 41.91 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1825,7 +1825,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 106.68 92.71 0)
+			(at 41.91 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1842,7 +1842,7 @@
 		(instances
 			(project "table-zamboni"
 				(path "/6b8b7632-a6ae-4a95-9a82-5604ab03d2a7/8cce2de5-db49-4c04-aeca-96191d207de7"
-					(reference "R401")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -1850,7 +1850,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 120.65 57.15 90)
+		(at 55.88 40.64 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1859,8 +1859,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f814a7a4-a490-4c4d-93e5-a9e230557074")
-		(property "Reference" "C401"
-			(at 120.65 49.53 90)
+		(property "Reference" "C11"
+			(at 55.88 33.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1869,7 +1869,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 120.65 52.07 90)
+			(at 55.88 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1878,7 +1878,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 124.46 58.1152 0)
+			(at 59.69 41.6052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1887,7 +1887,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 120.65 57.15 0)
+			(at 55.88 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1896,7 +1896,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 120.65 57.15 0)
+			(at 55.88 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1913,7 +1913,7 @@
 		(instances
 			(project "table-zamboni"
 				(path "/6b8b7632-a6ae-4a95-9a82-5604ab03d2a7/8cce2de5-db49-4c04-aeca-96191d207de7"
-					(reference "C401")
+					(reference "C11")
 					(unit 1)
 				)
 			)
